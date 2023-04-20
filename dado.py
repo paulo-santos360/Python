@@ -1,0 +1,11 @@
+nome = input("Qual é o seu nome? ")
+idade = input("Qual é a sua idade? ")
+endereco = input("Qual é o seu endereço? ")
+email = input("Qual é o seu e-mail? ")
+telefone = input("Qual é o seu telefone? ")
+
+print("Nome: " + nome)
+print("Idade: " + idade)
+print("Endereço: " + endereco)
+print("E-mail: " + email)
+print("Telefone: " + telefone)
